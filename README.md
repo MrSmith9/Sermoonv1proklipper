@@ -20,9 +20,11 @@ Please report [Click Here](https://github.com/MrSmith9/Sermoonv1proklipper/issue
 pin: PB4
 ```
 
- ### Discord Server: [MrSmith9.Dev](https://discord.gg/K5EnYdtjbS)
+ ### Discord Server: [MrSmith9.Dev](https://discord.gg/K5EnYdtjbS) Server is not ready as we still work on discord. 
 
   ---------------------------------------------------------------------------------
 
 ### Klipperwrt: [Klipperwrt](https://github.com/ihrapsa/KlipperWrt)
+
+
    ---------------------------------------------------------------------------------
