@@ -2,7 +2,7 @@
  
 # Sermoon V1 Pro
  
- ---------------------------------------------------------------------------------
+
 
  ### Discord Server: [Coming Soon](https://discord.com)
 
