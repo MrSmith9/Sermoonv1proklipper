@@ -14,7 +14,7 @@ If you use fan. Am use 5015 fan plug see picture [Click here to see picture](htt
 pin: PB4
 ```
 
- ### Discord Server: [Coming Soon](https://discord.com)
+ ### Discord Server: [MrSmith9.Dev](https://discord.gg/K5EnYdtjbS)
 
   ---------------------------------------------------------------------------------
 
