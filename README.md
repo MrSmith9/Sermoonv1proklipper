@@ -11,7 +11,7 @@ Printer.cfg - Copy and paste in yor printer.cfg, I am use Fluidd
 Please report [Click Here](https://github.com/MrSmith9/Sermoonv1proklipper/issues)
 
   ---------------------------------------------------------------------------------
-<ins>If you use fan. Am use 5015 fan plug see picture [Click here to see picture](https://user-images.githubusercontent.com/7941237/176997205-250d62d5-af9c-4f60-8fb9-85a33f329b3f.jpg)</ins>
+<ins>If you use fan. Am use 5015 fan plug see picture
 ```cfg
 [controller_fan controller_fan]
 # In order to access the controller fan, the controller fan needs to be plugged
@@ -20,7 +20,9 @@ Please report [Click Here](https://github.com/MrSmith9/Sermoonv1proklipper/issue
 pin: PB4
 ```
 
- ### Discord Server: [MrSmith9.Dev](https://discord.gg/K5EnYdtjbS) Server is not ready as we still work on discord. 
+![alt text](https://cdn.discordapp.com/attachments/1208184329281343529/1208184544579027044/176997205-250d62d5-af9c-4f60-8fb9-85a33f329b3f.jpg?ex=65e25c8a&is=65cfe78a&hm=07e01e935f592eebb606d2b5071bf57623c541ecc53155b48de7ce8e1d7b11c6&)
+
+ ### Discord Server: https://discord.gg/K5EnYdtjbS
 
   ---------------------------------------------------------------------------------
 
