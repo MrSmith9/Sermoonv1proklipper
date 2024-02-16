@@ -7,7 +7,7 @@ Printer.cfg - Copy and paste in yor printer.cfg, I am use Fluidd
 
   ---------------------------------------------------------------------------------
 
-##<ins>If any issue.</ins>
+## <ins>If any issue.</ins>
 Please report [Click Here](https://github.com/MrSmith9/Sermoonv1proklipper/issues)
 
   ---------------------------------------------------------------------------------
