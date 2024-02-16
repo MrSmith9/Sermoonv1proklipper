@@ -11,7 +11,10 @@ Printer.cfg - Copy and paste in yor printer.cfg, I am use Fluidd
 Please report [Click Here](https://github.com/MrSmith9/Sermoonv1proklipper/issues)
 
   ---------------------------------------------------------------------------------
-<ins>If you use fan. Am use 5015 fan plug see picture
+##[controller_fan]
+In out of box SermoonV1, controller fan always on. There is no way to set speed or turn off the fan.
+
+In order to access the controller fan, the controller fan needs to be plugged in PB4, see figure below.
 ```cfg
 [controller_fan controller_fan]
 # In order to access the controller fan, the controller fan needs to be plugged
