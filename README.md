@@ -1,9 +1,9 @@
 # <ins>Sermoon V1 Pro</ins>
 
  
-Folder Firmware - Put in Sermoon v1 pro SD Card
+<ins>Folder Firmware - Put in Sermoon v1 pro SD Card</ins>
 
-Printer.cfg - Copy and paste in yor printer.cfg, I am use Fluidd 
+<ins>Printer.cfg - Copy and paste in yor printer.cfg, I am use Fluidd </ins>
 
   ---------------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ pin: PB4
 </details>
 
 
- ### Discord Server: https://discord.gg/K5EnYdtjbS
+ ###  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> > https://discord.gg/K5EnYdtjbS
 
   ---------------------------------------------------------------------------------
 
