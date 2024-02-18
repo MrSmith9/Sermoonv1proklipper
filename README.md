@@ -1,5 +1,6 @@
 # <ins>Sermoon V1 Pro</ins>
 
+I haven't test bltouch firmware so i have order new cable for bltouch and will test it by tonight or tomorrow. 
  
 Folder Firmware - Put in Sermoon v1 pro SD Card
 
