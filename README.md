@@ -6,11 +6,6 @@
 
   ---------------------------------------------------------------------------------
 
-## <ins>If any issue.</ins>
-Please report [Click Here](https://github.com/MrSmith9/Sermoonv1proklipper/issues)
-
-  ---------------------------------------------------------------------------------
-
   <details>
   <summary>Click me</summary>
 
