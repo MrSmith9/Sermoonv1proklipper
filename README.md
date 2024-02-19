@@ -25,8 +25,9 @@ pin: PB4
 
 </details>
 
-
  ###  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> > https://discord.gg/K5EnYdtjbS
+
+ Discord invite have closed will have to redoing on channel etc. 
 
   ---------------------------------------------------------------------------------
 
