@@ -25,10 +25,10 @@ pin: PB4
 
 </details>
 
- ###  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> > https://discord.gg/K5EnYdtjbS
+ ###  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> > https://discord.gg/n3Fa3z2xzd
 
- Discord invite have closed will have to redoing on channels etc. 
 
+Discord invite have open and got few channels for now.
   ---------------------------------------------------------------------------------
 
 ### Klipperwrt: [Klipperwrt](https://github.com/ihrapsa/KlipperWrt)
