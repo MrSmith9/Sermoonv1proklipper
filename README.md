@@ -1,6 +1,6 @@
 # <ins>Sermoon V1 Pro</ins>
  
-<ins>Folder Firmware - Put in Sermoon v1 pro SD Card</ins>
+<ins>Folder Firmware - Put in Sermoon v1/pro SD Card</ins>
 
 <ins>Printer.cfg - Copy and paste in yor printer.cfg, I am use Fluidd </ins>
 
