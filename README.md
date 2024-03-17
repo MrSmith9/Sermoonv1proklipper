@@ -27,7 +27,7 @@ pin: PB4
 
 </details>
 
- ###  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> > https://discord.gg/n3Fa3z2xzd
+ ###  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> > https://discord.gg/wj9ETVGbgP
 
 
 Discord invite have open and got few channels for now.
