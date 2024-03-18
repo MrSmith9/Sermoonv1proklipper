@@ -4,8 +4,6 @@
 
 <ins>Printer.cfg - Copy and paste in yor printer.cfg, I am use Fluidd </ins>
 
-Download Releases: [https://github.com/MrSmith9/Sermoonv1proklipper](https://github.com/MrSmith9/Sermoonv1proklipper/releases/tag/Beta)
-
   ---------------------------------------------------------------------------------
 
   <details>
