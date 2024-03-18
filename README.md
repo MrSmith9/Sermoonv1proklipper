@@ -42,4 +42,5 @@ mjpg_streamer --input input_unc.so --device/video2 --fps 30 --yuv --quality 100 
    ---------------------------------------------------------------------------------
 
    url stream: /webcam/?action=stream
+   
    url snapshot: /webcam/?action=snapshot
