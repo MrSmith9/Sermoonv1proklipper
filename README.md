@@ -38,4 +38,10 @@ Discord invite have open and got few channels for now.
 
    ---------------------------------------------------------------------------------
 
+mjpg_streamer --input input_unc.so --device/video2 --fps 30 --yuv --quality 100 --resolution 1280x720 --led off --output output_http.so --port 8080 --www /www/webcam/
 <img src='Pictures/1.png' width='1080'>
+
+   ---------------------------------------------------------------------------------
+
+   url stream: /webcam/?action=stream
+   url snapshot: /webcam/?action=snapshot
